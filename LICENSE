@@ -1,0 +1,22 @@
+Rollup SDK for iOS: binary license
+
+Copyright 2026 Kint AI, Inc. All rights reserved.
+
+The Rollup SDK (the binary framework this package points to, with its interfaces, resources and the models and data
+it downloads) is proprietary software of Kint AI, Inc. It is licensed, not sold, under the Rollup SDK Terms
+(version 2026-10-13 or later), which are incorporated into this license by reference:
+
+  https://www.tryrollup.com/legal/sdk-terms
+
+Under those terms, a developer with an approved Rollup developer account and an approved app may integrate the SDK
+into that app and distribute it only as compiled into the app. Among other things, the terms prohibit reverse
+engineering the SDK, extracting its models or resources, redistributing it on its own, and circumventing its access
+controls. If you have not accepted the Rollup SDK Terms, no license is granted to you, and you may not use, copy or
+distribute the SDK.
+
+The SDK includes third-party components licensed under their own terms, listed in THIRD_PARTY_NOTICES.md. Nothing in
+this license limits your rights under those licenses.
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, AS FURTHER DESCRIBED IN THE ROLLUP SDK TERMS.
+
+Questions: founders@tryrollup.com
